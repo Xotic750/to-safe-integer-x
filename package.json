@@ -1,6 +1,6 @@
 {
   "name": "to-safe-integer-x",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ToSafeInteger converts 'argument' to an integral numeric value of safe limit.",
   "homepage": "https://github.com/Xotic750/to-safe-integer-x",
   "author": {

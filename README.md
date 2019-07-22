@@ -45,5 +45,6 @@ import {toSafeInteger} from 'to-safe-integer-x';
 console.log(toSafeInteger(3)); // 3
 console.log(toSafeInteger(Number.MIN_VALUE)); // 0
 console.log(toSafeInteger(Infinity)); // 9007199254740991
+console.log(toSafeInteger(-Infinity)); // -9007199254740991
 console.log(toSafeInteger('3')); // 3
 ```
