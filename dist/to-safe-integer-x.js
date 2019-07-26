@@ -2,13 +2,13 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2019-present",
-  "date": "2019-07-25T21:52:24.834Z",
+  "date": "2019-07-26T13:12:41.728Z",
   "describe": "",
   "description": "ToSafeInteger converts 'argument' to an integral numeric value of safe limit.",
   "file": "to-safe-integer-x.js",
   "hash": "1e03bf6481677a8c49d3",
   "license": "MIT",
-  "version": "1.0.5"
+  "version": "1.0.6"
 }
 */
 (function webpackUniversalModuleDefinition(root, factory) {
