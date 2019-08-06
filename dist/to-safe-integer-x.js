@@ -2,7 +2,7 @@
 {
   "author": "Graham Fairweather",
   "copywrite": "Copyright (c) 2019-present",
-  "date": "2019-08-06T00:31:34.442Z",
+  "date": "2019-08-06T20:58:17.076Z",
   "describe": "",
   "description": "ToSafeInteger converts 'argument' to an integral numeric value of safe limit.",
   "file": "to-safe-integer-x.js",
